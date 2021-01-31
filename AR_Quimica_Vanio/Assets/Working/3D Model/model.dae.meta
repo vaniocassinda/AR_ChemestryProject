@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 770d24e51e0866e4e801f9197aa015c4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bohr
+    100002: Dalton
+    100004: "El\xE9tron"
+    100006: "El\xE9tron 1"
+    100008: "El\xE9tron 10"
+    100010: "El\xE9tron 11"
+    100012: "El\xE9tron 12"
+    100014: "El\xE9tron 13"
+    100016: "El\xE9tron 14"
+    100018: "El\xE9tron 15"
+    100020: "El\xE9tron 16"
+    100022: "El\xE9tron 17"
+    100024: "El\xE9tron 18"
+    100026: "El\xE9tron 19"
+    100028: "El\xE9tron 2"
+    100030: "El\xE9tron 20"
+    100032: "El\xE9tron 3"
+    100034: "El\xE9tron 4"
+    100036: "El\xE9tron 5"
+    100038: "El\xE9tron 6"
+    100040: "El\xE9tron 7"
+    100042: "El\xE9tron 8"
+    100044: "El\xE9tron 9"
+    100046: group_0
+    100048: ID103
+    100050: ID120
+    100052: ID132
+    100054: ID99
+    100056: instance_0
+    100058: instance_1
+    100060: instance_10
+    100062: instance_11
+    100064: instance_12
+    100066: instance_13
+    100068: instance_14
+    100070: instance_15
+    100072: instance_16
+    100074: instance_17
+    100076: instance_18
+    100078: instance_19
+    100080: instance_2
+    100082: instance_20
+    100084: instance_21
+    100086: instance_22
+    100088: instance_23
+    100090: instance_24
+    100092: instance_25
+    100094: instance_26
+    100096: instance_27
+    100098: instance_28
+    100100: instance_29
+    100102: instance_3
+    100104: instance_30
+    100106: instance_31
+    100108: instance_32
+    100110: instance_4
+    100112: instance_5
+    100114: instance_6
+    100116: instance_7
+    100118: instance_8
+    100120: instance_9
+    100122: //RootNode
+    100124: Neutron
+    100126: Neutron 1
+    100128: Neutron 2
+    100130: Neutron 3
+    100132: "Pr\xF3ton"
+    100134: "Pr\xF3ton 1"
+    100136: "Pr\xF3ton 2"
+    100138: "Pr\xF3ton 3"
+    100140: Rutherford
+    100142: skp_camera_Last_Saved_SketchUp_View
+    100144: Thomson
+    400000: Bohr
+    400002: Dalton
+    400004: "El\xE9tron"
+    400006: "El\xE9tron 1"
+    400008: "El\xE9tron 10"
+    400010: "El\xE9tron 11"
+    400012: "El\xE9tron 12"
+    400014: "El\xE9tron 13"
+    400016: "El\xE9tron 14"
+    400018: "El\xE9tron 15"
+    400020: "El\xE9tron 16"
+    400022: "El\xE9tron 17"
+    400024: "El\xE9tron 18"
+    400026: "El\xE9tron 19"
+    400028: "El\xE9tron 2"
+    400030: "El\xE9tron 20"
+    400032: "El\xE9tron 3"
+    400034: "El\xE9tron 4"
+    400036: "El\xE9tron 5"
+    400038: "El\xE9tron 6"
+    400040: "El\xE9tron 7"
+    400042: "El\xE9tron 8"
+    400044: "El\xE9tron 9"
+    400046: group_0
+    400048: ID103
+    400050: ID120
+    400052: ID132
+    400054: ID99
+    400056: instance_0
+    400058: instance_1
+    400060: instance_10
+    400062: instance_11
+    400064: instance_12
+    400066: instance_13
+    400068: instance_14
+    400070: instance_15
+    400072: instance_16
+    400074: instance_17
+    400076: instance_18
+    400078: instance_19
+    400080: instance_2
+    400082: instance_20
+    400084: instance_21
+    400086: instance_22
+    400088: instance_23
+    400090: instance_24
+    400092: instance_25
+    400094: instance_26
+    400096: instance_27
+    400098: instance_28
+    400100: instance_29
+    400102: instance_3
+    400104: instance_30
+    400106: instance_31
+    400108: instance_32
+    400110: instance_4
+    400112: instance_5
+    400114: instance_6
+    400116: instance_7
+    400118: instance_8
+    400120: instance_9
+    400122: //RootNode
+    400124: Neutron
+    400126: Neutron 1
+    400128: Neutron 2
+    400130: Neutron 3
+    400132: "Pr\xF3ton"
+    400134: "Pr\xF3ton 1"
+    400136: "Pr\xF3ton 2"
+    400138: "Pr\xF3ton 3"
+    400140: Rutherford
+    400142: skp_camera_Last_Saved_SketchUp_View
+    400144: Thomson
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: Color_005
+    2100002: material
+    2100004: __Color_A01_1
+    2100006: __Gray6_
+    2100008: Color_A01
+    2100010: Color_D01
+    2300000: Bohr
+    2300002: Dalton
+    2300004: "El\xE9tron"
+    2300006: "El\xE9tron 1"
+    2300008: "El\xE9tron 10"
+    2300010: "El\xE9tron 11"
+    2300012: "El\xE9tron 12"
+    2300014: "El\xE9tron 13"
+    2300016: "El\xE9tron 14"
+    2300018: "El\xE9tron 15"
+    2300020: "El\xE9tron 16"
+    2300022: "El\xE9tron 17"
+    2300024: "El\xE9tron 18"
+    2300026: "El\xE9tron 19"
+    2300028: "El\xE9tron 2"
+    2300030: "El\xE9tron 20"
+    2300032: "El\xE9tron 3"
+    2300034: "El\xE9tron 4"
+    2300036: "El\xE9tron 5"
+    2300038: "El\xE9tron 6"
+    2300040: "El\xE9tron 7"
+    2300042: "El\xE9tron 8"
+    2300044: "El\xE9tron 9"
+    2300046: Neutron
+    2300048: Neutron 1
+    2300050: Neutron 2
+    2300052: Neutron 3
+    2300054: "Pr\xF3ton"
+    2300056: "Pr\xF3ton 1"
+    2300058: "Pr\xF3ton 2"
+    2300060: "Pr\xF3ton 3"
+    2300062: Rutherford
+    2300064: Thomson
+    3300000: Bohr
+    3300002: Dalton
+    3300004: "El\xE9tron"
+    3300006: "El\xE9tron 1"
+    3300008: "El\xE9tron 10"
+    3300010: "El\xE9tron 11"
+    3300012: "El\xE9tron 12"
+    3300014: "El\xE9tron 13"
+    3300016: "El\xE9tron 14"
+    3300018: "El\xE9tron 15"
+    3300020: "El\xE9tron 16"
+    3300022: "El\xE9tron 17"
+    3300024: "El\xE9tron 18"
+    3300026: "El\xE9tron 19"
+    3300028: "El\xE9tron 2"
+    3300030: "El\xE9tron 20"
+    3300032: "El\xE9tron 3"
+    3300034: "El\xE9tron 4"
+    3300036: "El\xE9tron 5"
+    3300038: "El\xE9tron 6"
+    3300040: "El\xE9tron 7"
+    3300042: "El\xE9tron 8"
+    3300044: "El\xE9tron 9"
+    3300046: Neutron
+    3300048: Neutron 1
+    3300050: Neutron 2
+    3300052: Neutron 3
+    3300054: "Pr\xF3ton"
+    3300056: "Pr\xF3ton 1"
+    3300058: "Pr\xF3ton 2"
+    3300060: "Pr\xF3ton 3"
+    3300062: Rutherford
+    3300064: Thomson
+    4300000: Neutron
+    4300002: "Pr\xF3ton"
+    4300004: Dalton
+    4300006: Thomson
+    4300008: "El\xE9tron"
+    4300010: Bohr
+    4300012: Rutherford
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="OxigenioAcido" size="3.000000 3.824645" />
+    <ImageTarget name="HidrogenioAcido" size="3.000000 3.658879" />
+    <ImageTarget name="Enxofre" size="3.000000 3.858974" />
+    <ImageTarget name="Nitrogenio" size="10.000000 11.147541" />
+    <ImageTarget name="HidrogenioGasF" size="10.000000 11.488549" />
+    <ImageTarget name="CarbonoGas" size="10.000000 10.856031" />
+    <ImageTarget name="Oxigenio" size="2.000000 2.175824" />
+    <ImageTarget name="Hidrogenio2" size="2.000000 2.223022" />
+    <ImageTarget name="Hidrogenio1" size="2.000000 2.378601" />
+    <ImageTarget name="Cloro" size="2.000000 2.250951" />
+    <ImageTarget name="Sodio" size="2.000000 2.282258" />
+  </Tracking>
+</QCARConfig>

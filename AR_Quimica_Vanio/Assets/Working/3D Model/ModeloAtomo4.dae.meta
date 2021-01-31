@@ -1,0 +1,623 @@
+fileFormatVersion: 2
+guid: 534bb9d4990a3ba4da01df8fb61c542c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Elektroni
+    100002: Elektroni 1
+    100004: Elektroni 2
+    100006: Elektroni 3
+    100008: Elektroni 4
+    100010: Elektroni 5
+    100012: Elektroni 6
+    100014: Elektroni 7
+    100016: Elektroni 8
+    100018: Elektroni 9
+    100020: instance_0
+    100022: instance_1
+    100024: instance_10
+    100026: instance_11
+    100028: instance_12
+    100030: instance_13
+    100032: instance_14
+    100034: instance_15
+    100036: instance_16
+    100038: instance_17
+    100040: instance_18
+    100042: instance_19
+    100044: instance_2
+    100046: instance_20
+    100048: instance_21
+    100050: instance_22
+    100052: instance_23
+    100054: instance_24
+    100056: instance_25
+    100058: instance_26
+    100060: instance_27
+    100062: instance_28
+    100064: instance_29
+    100066: instance_3
+    100068: instance_30
+    100070: instance_31
+    100072: instance_32
+    100074: instance_33
+    100076: instance_34
+    100078: instance_35
+    100080: instance_36
+    100082: instance_37
+    100084: instance_38
+    100086: instance_39
+    100088: instance_4
+    100090: instance_40
+    100092: instance_41
+    100094: instance_42
+    100096: instance_43
+    100098: instance_44
+    100100: instance_45
+    100102: instance_46
+    100104: instance_47
+    100106: instance_48
+    100108: instance_49
+    100110: instance_5
+    100112: instance_50
+    100114: instance_51
+    100116: instance_52
+    100118: instance_53
+    100120: instance_54
+    100122: instance_55
+    100124: instance_56
+    100126: instance_57
+    100128: instance_58
+    100130: instance_59
+    100132: instance_6
+    100134: instance_60
+    100136: instance_61
+    100138: instance_62
+    100140: instance_63
+    100142: instance_64
+    100144: instance_65
+    100146: instance_66
+    100148: instance_67
+    100150: instance_68
+    100152: instance_69
+    100154: instance_7
+    100156: instance_70
+    100158: instance_71
+    100160: instance_72
+    100162: instance_73
+    100164: instance_74
+    100166: instance_75
+    100168: instance_76
+    100170: instance_77
+    100172: instance_78
+    100174: instance_79
+    100176: instance_8
+    100178: instance_80
+    100180: instance_81
+    100182: instance_82
+    100184: instance_83
+    100186: instance_84
+    100188: instance_85
+    100190: instance_86
+    100192: instance_9
+    100194: //RootNode
+    100196: Neutroni
+    100198: Neutroni 1
+    100200: Neutroni 10
+    100202: Neutroni 11
+    100204: Neutroni 12
+    100206: Neutroni 13
+    100208: Neutroni 14
+    100210: Neutroni 15
+    100212: Neutroni 16
+    100214: Neutroni 17
+    100216: Neutroni 18
+    100218: Neutroni 19
+    100220: Neutroni 2
+    100222: Neutroni 20
+    100224: Neutroni 21
+    100226: Neutroni 22
+    100228: Neutroni 23
+    100230: Neutroni 3
+    100232: Neutroni 4
+    100234: Neutroni 5
+    100236: Neutroni 6
+    100238: Neutroni 7
+    100240: Neutroni 8
+    100242: Neutroni 9
+    100244: Protoni
+    100246: Protoni 1
+    100248: Protoni 10
+    100250: Protoni 11
+    100252: Protoni 12
+    100254: Protoni 13
+    100256: Protoni 14
+    100258: Protoni 15
+    100260: Protoni 16
+    100262: Protoni 17
+    100264: Protoni 18
+    100266: Protoni 19
+    100268: Protoni 2
+    100270: Protoni 20
+    100272: Protoni 21
+    100274: Protoni 22
+    100276: Protoni 23
+    100278: Protoni 24
+    100280: Protoni 25
+    100282: Protoni 26
+    100284: Protoni 27
+    100286: Protoni 28
+    100288: Protoni 29
+    100290: Protoni 3
+    100292: Protoni 30
+    100294: Protoni 31
+    100296: Protoni 32
+    100298: Protoni 33
+    100300: Protoni 34
+    100302: Protoni 35
+    100304: Protoni 36
+    100306: Protoni 37
+    100308: Protoni 38
+    100310: Protoni 39
+    100312: Protoni 4
+    100314: Protoni 40
+    100316: Protoni 41
+    100318: Protoni 42
+    100320: Protoni 43
+    100322: Protoni 44
+    100324: Protoni 45
+    100326: Protoni 46
+    100328: Protoni 47
+    100330: Protoni 48
+    100332: Protoni 49
+    100334: Protoni 5
+    100336: Protoni 6
+    100338: Protoni 7
+    100340: Protoni 8
+    100342: Protoni 9
+    100344: Rata
+    100346: Rata 1
+    100348: Rata 2
+    400000: Elektroni
+    400002: Elektroni 1
+    400004: Elektroni 2
+    400006: Elektroni 3
+    400008: Elektroni 4
+    400010: Elektroni 5
+    400012: Elektroni 6
+    400014: Elektroni 7
+    400016: Elektroni 8
+    400018: Elektroni 9
+    400020: instance_0
+    400022: instance_1
+    400024: instance_10
+    400026: instance_11
+    400028: instance_12
+    400030: instance_13
+    400032: instance_14
+    400034: instance_15
+    400036: instance_16
+    400038: instance_17
+    400040: instance_18
+    400042: instance_19
+    400044: instance_2
+    400046: instance_20
+    400048: instance_21
+    400050: instance_22
+    400052: instance_23
+    400054: instance_24
+    400056: instance_25
+    400058: instance_26
+    400060: instance_27
+    400062: instance_28
+    400064: instance_29
+    400066: instance_3
+    400068: instance_30
+    400070: instance_31
+    400072: instance_32
+    400074: instance_33
+    400076: instance_34
+    400078: instance_35
+    400080: instance_36
+    400082: instance_37
+    400084: instance_38
+    400086: instance_39
+    400088: instance_4
+    400090: instance_40
+    400092: instance_41
+    400094: instance_42
+    400096: instance_43
+    400098: instance_44
+    400100: instance_45
+    400102: instance_46
+    400104: instance_47
+    400106: instance_48
+    400108: instance_49
+    400110: instance_5
+    400112: instance_50
+    400114: instance_51
+    400116: instance_52
+    400118: instance_53
+    400120: instance_54
+    400122: instance_55
+    400124: instance_56
+    400126: instance_57
+    400128: instance_58
+    400130: instance_59
+    400132: instance_6
+    400134: instance_60
+    400136: instance_61
+    400138: instance_62
+    400140: instance_63
+    400142: instance_64
+    400144: instance_65
+    400146: instance_66
+    400148: instance_67
+    400150: instance_68
+    400152: instance_69
+    400154: instance_7
+    400156: instance_70
+    400158: instance_71
+    400160: instance_72
+    400162: instance_73
+    400164: instance_74
+    400166: instance_75
+    400168: instance_76
+    400170: instance_77
+    400172: instance_78
+    400174: instance_79
+    400176: instance_8
+    400178: instance_80
+    400180: instance_81
+    400182: instance_82
+    400184: instance_83
+    400186: instance_84
+    400188: instance_85
+    400190: instance_86
+    400192: instance_9
+    400194: //RootNode
+    400196: Neutroni
+    400198: Neutroni 1
+    400200: Neutroni 10
+    400202: Neutroni 11
+    400204: Neutroni 12
+    400206: Neutroni 13
+    400208: Neutroni 14
+    400210: Neutroni 15
+    400212: Neutroni 16
+    400214: Neutroni 17
+    400216: Neutroni 18
+    400218: Neutroni 19
+    400220: Neutroni 2
+    400222: Neutroni 20
+    400224: Neutroni 21
+    400226: Neutroni 22
+    400228: Neutroni 23
+    400230: Neutroni 3
+    400232: Neutroni 4
+    400234: Neutroni 5
+    400236: Neutroni 6
+    400238: Neutroni 7
+    400240: Neutroni 8
+    400242: Neutroni 9
+    400244: Protoni
+    400246: Protoni 1
+    400248: Protoni 10
+    400250: Protoni 11
+    400252: Protoni 12
+    400254: Protoni 13
+    400256: Protoni 14
+    400258: Protoni 15
+    400260: Protoni 16
+    400262: Protoni 17
+    400264: Protoni 18
+    400266: Protoni 19
+    400268: Protoni 2
+    400270: Protoni 20
+    400272: Protoni 21
+    400274: Protoni 22
+    400276: Protoni 23
+    400278: Protoni 24
+    400280: Protoni 25
+    400282: Protoni 26
+    400284: Protoni 27
+    400286: Protoni 28
+    400288: Protoni 29
+    400290: Protoni 3
+    400292: Protoni 30
+    400294: Protoni 31
+    400296: Protoni 32
+    400298: Protoni 33
+    400300: Protoni 34
+    400302: Protoni 35
+    400304: Protoni 36
+    400306: Protoni 37
+    400308: Protoni 38
+    400310: Protoni 39
+    400312: Protoni 4
+    400314: Protoni 40
+    400316: Protoni 41
+    400318: Protoni 42
+    400320: Protoni 43
+    400322: Protoni 44
+    400324: Protoni 45
+    400326: Protoni 46
+    400328: Protoni 47
+    400330: Protoni 48
+    400332: Protoni 49
+    400334: Protoni 5
+    400336: Protoni 6
+    400338: Protoni 7
+    400340: Protoni 8
+    400342: Protoni 9
+    400344: Rata
+    400346: Rata 1
+    400348: Rata 2
+    2100000: material_0
+    2100002: material_1
+    2100004: material_2
+    2100006: material_3
+    2300000: Elektroni
+    2300002: Elektroni 1
+    2300004: Elektroni 2
+    2300006: Elektroni 3
+    2300008: Elektroni 4
+    2300010: Elektroni 5
+    2300012: Elektroni 6
+    2300014: Elektroni 7
+    2300016: Elektroni 8
+    2300018: Elektroni 9
+    2300020: Neutroni
+    2300022: Neutroni 1
+    2300024: Neutroni 10
+    2300026: Neutroni 11
+    2300028: Neutroni 12
+    2300030: Neutroni 13
+    2300032: Neutroni 14
+    2300034: Neutroni 15
+    2300036: Neutroni 16
+    2300038: Neutroni 17
+    2300040: Neutroni 18
+    2300042: Neutroni 19
+    2300044: Neutroni 2
+    2300046: Neutroni 20
+    2300048: Neutroni 21
+    2300050: Neutroni 22
+    2300052: Neutroni 23
+    2300054: Neutroni 3
+    2300056: Neutroni 4
+    2300058: Neutroni 5
+    2300060: Neutroni 6
+    2300062: Neutroni 7
+    2300064: Neutroni 8
+    2300066: Neutroni 9
+    2300068: Protoni
+    2300070: Protoni 1
+    2300072: Protoni 10
+    2300074: Protoni 11
+    2300076: Protoni 12
+    2300078: Protoni 13
+    2300080: Protoni 14
+    2300082: Protoni 15
+    2300084: Protoni 16
+    2300086: Protoni 17
+    2300088: Protoni 18
+    2300090: Protoni 19
+    2300092: Protoni 2
+    2300094: Protoni 20
+    2300096: Protoni 21
+    2300098: Protoni 22
+    2300100: Protoni 23
+    2300102: Protoni 24
+    2300104: Protoni 25
+    2300106: Protoni 26
+    2300108: Protoni 27
+    2300110: Protoni 28
+    2300112: Protoni 29
+    2300114: Protoni 3
+    2300116: Protoni 30
+    2300118: Protoni 31
+    2300120: Protoni 32
+    2300122: Protoni 33
+    2300124: Protoni 34
+    2300126: Protoni 35
+    2300128: Protoni 36
+    2300130: Protoni 37
+    2300132: Protoni 38
+    2300134: Protoni 39
+    2300136: Protoni 4
+    2300138: Protoni 40
+    2300140: Protoni 41
+    2300142: Protoni 42
+    2300144: Protoni 43
+    2300146: Protoni 44
+    2300148: Protoni 45
+    2300150: Protoni 46
+    2300152: Protoni 47
+    2300154: Protoni 48
+    2300156: Protoni 49
+    2300158: Protoni 5
+    2300160: Protoni 6
+    2300162: Protoni 7
+    2300164: Protoni 8
+    2300166: Protoni 9
+    2300168: Rata
+    2300170: Rata 1
+    2300172: Rata 2
+    3300000: Elektroni
+    3300002: Elektroni 1
+    3300004: Elektroni 2
+    3300006: Elektroni 3
+    3300008: Elektroni 4
+    3300010: Elektroni 5
+    3300012: Elektroni 6
+    3300014: Elektroni 7
+    3300016: Elektroni 8
+    3300018: Elektroni 9
+    3300020: Neutroni
+    3300022: Neutroni 1
+    3300024: Neutroni 10
+    3300026: Neutroni 11
+    3300028: Neutroni 12
+    3300030: Neutroni 13
+    3300032: Neutroni 14
+    3300034: Neutroni 15
+    3300036: Neutroni 16
+    3300038: Neutroni 17
+    3300040: Neutroni 18
+    3300042: Neutroni 19
+    3300044: Neutroni 2
+    3300046: Neutroni 20
+    3300048: Neutroni 21
+    3300050: Neutroni 22
+    3300052: Neutroni 23
+    3300054: Neutroni 3
+    3300056: Neutroni 4
+    3300058: Neutroni 5
+    3300060: Neutroni 6
+    3300062: Neutroni 7
+    3300064: Neutroni 8
+    3300066: Neutroni 9
+    3300068: Protoni
+    3300070: Protoni 1
+    3300072: Protoni 10
+    3300074: Protoni 11
+    3300076: Protoni 12
+    3300078: Protoni 13
+    3300080: Protoni 14
+    3300082: Protoni 15
+    3300084: Protoni 16
+    3300086: Protoni 17
+    3300088: Protoni 18
+    3300090: Protoni 19
+    3300092: Protoni 2
+    3300094: Protoni 20
+    3300096: Protoni 21
+    3300098: Protoni 22
+    3300100: Protoni 23
+    3300102: Protoni 24
+    3300104: Protoni 25
+    3300106: Protoni 26
+    3300108: Protoni 27
+    3300110: Protoni 28
+    3300112: Protoni 29
+    3300114: Protoni 3
+    3300116: Protoni 30
+    3300118: Protoni 31
+    3300120: Protoni 32
+    3300122: Protoni 33
+    3300124: Protoni 34
+    3300126: Protoni 35
+    3300128: Protoni 36
+    3300130: Protoni 37
+    3300132: Protoni 38
+    3300134: Protoni 39
+    3300136: Protoni 4
+    3300138: Protoni 40
+    3300140: Protoni 41
+    3300142: Protoni 42
+    3300144: Protoni 43
+    3300146: Protoni 44
+    3300148: Protoni 45
+    3300150: Protoni 46
+    3300152: Protoni 47
+    3300154: Protoni 48
+    3300156: Protoni 49
+    3300158: Protoni 5
+    3300160: Protoni 6
+    3300162: Protoni 7
+    3300164: Protoni 8
+    3300166: Protoni 9
+    3300168: Rata
+    3300170: Rata 1
+    3300172: Rata 2
+    4300000: Elektroni
+    4300002: Rata
+    4300004: Protoni
+    4300006: Neutroni
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
